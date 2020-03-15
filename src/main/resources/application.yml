@@ -1,0 +1,3 @@
+spring:
+  brokerList: 192.168.49.131:9092
+
